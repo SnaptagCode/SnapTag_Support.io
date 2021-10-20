@@ -24,4 +24,4 @@ Invisible Watermark 기반의 이미지 코딩 기술
 
 ### Contact Us
 
-Email : tnctis21@snaptag.co.kr
+Email : contact@snaptag.co.kr
